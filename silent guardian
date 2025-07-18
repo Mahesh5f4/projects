@@ -1,0 +1,20 @@
+Silent Guardian: AI Personal Privacy Firewall Agent
+Silent Guardian is like your digital bodyguard that quietly watches over your online and device activities — but unlike traditional firewalls or antivirus software, it uses advanced AI reasoning to understand the context of what’s happening with your data and privacy.
+
+It doesn’t just block or allow apps blindly. Instead, it:
+
+Knows which apps or websites are safe or risky
+
+Understands when an app tries to access sensitive data like your microphone, camera, location, or clipboard
+
+Learns your personal privacy preferences and habits over time
+
+Warns you about suspicious activity before it harms you
+
+Can take smart actions on your behalf (block, obfuscate data, fake info, restrict permissions)
+
+The agent runs silently in the background, monitoring data flows and app activities on your device and browser.
+
+It watches network calls, file access, camera/mic usage, clipboard, location requests, app permissions, etc.
+
+It logs these activities for further analysis.
